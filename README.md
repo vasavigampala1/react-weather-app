@@ -76,7 +76,3 @@ Network issues
 
 
 
-
-✅ Screenshots section
-✅ Table of contents
-Just let me know!
